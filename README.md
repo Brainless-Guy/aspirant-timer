@@ -4,7 +4,7 @@
 
 # Usage
 
-# [!NOTE] The program will require administrative permission to disable Internet! 
+[!NOTE] The program will require administrative permission to disable Internet! 
 
 - for serious Aspirants  who get distractd by lusty Internet
 - disables Internet , Untill the timer reaches zero
